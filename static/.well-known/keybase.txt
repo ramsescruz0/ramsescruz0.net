@@ -1,9 +1,10 @@
+==================================================================
 https://keybase.io/ramsescruz0
 --------------------------------------------------------------------
 
 I hereby claim:
 
-  * I am an admin of https://ramsescruz0.github.io
+  * I am an admin of https://ramsescruz0.net
   * I am ramsescruz0 (https://keybase.io/ramsescruz0) on keybase.
   * I have a public key ASA7WunPQGfX4l6SbBzv7O9Z0mcvie3lJYk3DP_dJZIa1Qo
 
@@ -19,14 +20,14 @@ To do so, I am signing this object:
       "username": "ramsescruz0"
     },
     "merkle_root": {
-      "ctime": 1790723436,
-      "hash": "46cb0b7293dfdfa353362c42d93265386eeddc94c16f99d06a0636e0192377bc6c2e94f24f14f2b9976c2d2fbb60e516f3936c56161311c05f5836588394d5a3",
-      "hash_meta": "3d041ee2ce6ecbc3c0f67eb39fa578104b372e99c9978b3b35aa3685aab5eabb",
-      "seqno": 27797627
+      "ctime": 1795528756,
+      "hash": "2f04290a4d86529e08ad84ed21de4fbd4bd5ecb4940f0ee74665830c3ffb9afc24e24e7eb0bf823117f7b30a1874894bd54e0d0b0cd8eff17e6dae0a2a173e8a",
+      "hash_meta": "2148c195750ffd317b155770da500c55bf6f4b1350cd10d646fac7b17f2693b6",
+      "seqno": 27899216
     },
     "service": {
-      "entropy": "+TLZthpo8cKa1gH7miviq/wt",
-      "hostname": "ramsescruz0.github.io",
+      "entropy": "nM98meQ/2OdkyZ/vZOR246Zj",
+      "hostname": "ramsescruz0.net",
       "protocol": "https:"
     },
     "type": "web_service_binding",
@@ -36,18 +37,20 @@ To do so, I am signing this object:
     "name": "keybase.io go client",
     "version": "6.6.3"
   },
-  "ctime": 1790723581,
+  "ctime": 1795528943,
   "expire_in": 504576000,
-  "prev": "eab6cc6e547de86422e2f9887c75326083063d3918dd54e7e061f1d7a69d924f",
-  "seqno": 25,
+  "prev": "86c1d3588f684b683b0c268a74f8051f6d1385935d0a711c50d4b96bd0ff893e",
+  "seqno": 36,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgO1rpz0Bn1+Jekmwc7+zvWdJnL4nt5SWJNwz/3SWSGtUKp3BheWxvYWTESpcCGcQg6rbMblR96GQi4vmIfHUyYIMGPTkY3VTn4GHx16adkk/EIGkjwQvXFFfCdvoLZaxxmZozmZz6Vj5qveVeRwjdDwngAgHCo3NpZ8RAR5ne8cqGNqtXt5EJkBNpC9jn08YMC96Trxsyhl0sWpbTQU+7TvK3FYSM1/hQjLs3ZrJHnuXO7PWeki6QuzqDD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIANAFPfVq+pfSd48f3zDicCJ5ygHn/+2xpHjcxFqXFkFo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgO1rpz0Bn1+Jekmwc7+zvWdJnL4nt5SWJNwz/3SWSGtUKp3BheWxvYWTESpcCJMQghsHTWI9oS2g7DCaKdPgFH20ThZNdCnEcUNS5a9D/iT7EIG0kUU2sIwzmV0o6dNbe2TMTJUXo3LhME+TpiowHQHXMAgHCo3NpZ8RA2/AjGXDGkVlVNTBTrvqpSKJyw7SlcFTFl/1gU16rzdi2dAQlpYRKisyjF9lpMd4ZGJ+wuGamHLIUpS4HZPmnDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOQzfNLjaG/7ucXHk2okP2ezqH3c1zTEUCkoHjAJw83po3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
 View my publicly-auditable identity here: https://keybase.io/ramsescruz0
+
+==================================================================
